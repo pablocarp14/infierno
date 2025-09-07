@@ -42,7 +42,7 @@ http://143.0.67.77:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="Entretenimiento", USA
 http://143.0.67.77:8000/play/a023/index.m3u8
 
-#EXTINF:-1 tvg-id="Telenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png" group-title="Entretenimiento", Telenovelas
+#EXTINF:-1 tvg-id="Telenovelas" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tlnovelas_m.png" group-title="Entretenimiento", Telenovelas
 http://200.115.120.1:8000/play/ca020/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Lifetime.png" audio-track="spa" group-title="Entretenimiento", Lifetime
@@ -51,7 +51,7 @@ http://190.96.112.22:9202/play/a06n/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Home Health" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryHH.png" audio-track="spa" group-title="Entretenimiento", Discovery H&H
 http://143.0.67.77:8000/play/a07h/index.m3u8
 
-#EXTINF:-1 tvg-id="Mas Chic" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/101-MasChic.png" audio-track="spa" group-title="Entretenimiento", Más Chic
+#EXTINF:-1 tvg-id="Mas Chic" tvg-logo="https://www.maschic.com/theme/assets/logo-new.png" audio-track="spa" group-title="Entretenimiento", Mas Chic
 http://200.115.96.61:9090/play/a0dj/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png" tvg-language="Español" group-title="Entretenimiento", Telemundo Internacional
@@ -75,7 +75,7 @@ http://143.0.67.77:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="Quiero musica" tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="Musica" , Quiero Música
 http://143.0.67.77:8000/play/a02n/index.m3u8
 
-#EXTINF:-1 tvg-id="Paka paka.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/pakapaka.png" group-title="Infantiles", Paka Paka
+#EXTINF:-1 tvg-id="Paka paka" tvg-logo="https://pakapaka.gob.ar/wp-content/uploads/2023/06/logo.png" group-title="Infantiles", Paka Paka
 http://143.0.67.77:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick Jr" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-NickJr.png" audio-track="spa" group-title="Infantiles", Nick Jr
@@ -105,10 +105,10 @@ http://200.60.124.19:29000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="Paramount" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Paramount.png" tvg-language="Español" group-title="Cine", Canal Paramount
 http://143.0.67.77:8000/play/a02y/index.m3u8
 
-#EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/cine-ar.png" group-title="Cine", CineAr
+#EXTINF:-1 tvg-id="Cinear.ar" tvg-logo="https://tv2.cine.ar/wp-content/uploads/2023/08/logo_blanco.webp" group-title="Cine", CineAr
 http://143.0.67.77:8000/play/a024/index.m3u8
 
-#EXTINF:-1 tvg-id="De pelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.pngs" group-title="Cine", De Pelicula
+#EXTINF:-1 tvg-id="De pelicula" tvg-logo="https://cdn.mitvstatic.com/channels/ar_de-pelicula_m.png" group-title="Cine", De Pelicula
 http://190.60.37.154:45000/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-id="Space" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="Cine", Space
@@ -129,7 +129,7 @@ http://143.0.67.77:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="HBO family" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png" audio-track="spa" group-title="Cine", HBO Family
 http://190.96.112.22:9202/play/a06r/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO mundi" tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png"group-title="Cine", HBO Mundi
+#EXTINF:-1 tvg-id="HBO mundi" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max_m.png"group-title="Cine", HBO Mundi
 http://143.0.67.77:8000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" audio-track="spa" group-title="Cine", HBO Xtreme
@@ -204,10 +204,10 @@ http://143.0.67.77:8000/play/a0bg/index.m3u8
 #EXTINF:-1 tvg-id="Canal E" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="Nacionales", Canal E
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal de la ciudad" tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="Nacionales" , Canal de la Ciudad  
+#EXTINF:-1 tvg-id="Canal de la ciudad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Canal_de_la_Ciudad.png/133px-Logo_Canal_de_la_Ciudad.png" group-title="Nacionales" , Canal de la Ciudad  
 http://143.0.67.77:8000/play/a06e/index.m3u8
 
-#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="Deportes", TyC Sports
+#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/330px-TyC_Sports_logo.svg.png" group-title="Deportes", TyC Sports
 http://143.0.67.77:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Deportes", ESPN 4
@@ -320,6 +320,21 @@ http://45.5.151.62:8000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="Star channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/250px-Star_Channel_2020.svg.png" group-title="Cine", Star channel
 http://45.5.151.62:8000/play/a04u/index.m3u8
+
+#EXTINF:-1 tvg-id="Xtrema tv" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Entretenimiento", Xtrema tv
+https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 3 Argentina" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/4-1.jpg" group-title="Entretenimiento", Canal 3 Argentina
+https://stmv6.voxtvhd.com.br/canal3argentina/canal3argentina/playlist.m3u8?hls_ctx=0736g1g2
+
+
+
+
+
+
+
+
+
 
 
 
