@@ -42,8 +42,8 @@ http://143.0.67.77:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="Entretenimiento", USA
 http://143.0.67.77:8000/play/a023/index.m3u8
 
-#EXTINF:-1 tvg-id="Telenovelas" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tlnovelas_m.png" group-title="Entretenimiento", Telenovelas
-http://200.115.120.1:8000/play/ca020/index.m3u8
+#EXTINF:-1 tvg-id="Music top" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1340-294x165-FFFFFF.jpg" group-title="Musica", Music top
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Lifetime.png" audio-track="spa" group-title="Entretenimiento", Lifetime
 http://190.96.112.22:9202/play/a06n/index.m3u8
@@ -93,8 +93,8 @@ http://143.0.67.77:8000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png" audio-track="spa" group-title="Infantiles", Discovery Kids
 http://143.0.67.77:8000/play/a06t/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNT.png" audio-track="spa" group-title="Cine", TNT
-http://143.0.67.77:8000/play/a07d/index.m3u8
+#EXTINF:-1 tvg-id="Xtrema cine de accion" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/17.jpg" group-title="Cine", Xtrema cine de accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="Cine", Cinecanal
 http://143.0.67.77:8000/play/a07b/index.m3u8
@@ -160,12 +160,9 @@ http://143.0.67.77:8000/play/a07j/index.m3u8
 http://143.0.67.77:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-id="Dsports" tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS
-http://179.63.6.17:9000/play/a08e
-
-#EXTINF:-1 tvg-id="Dsports" tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS
 http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dsports" tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS
+#EXTINF:-1 tvg-id="Dsports 2" tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS 2
 http://179.51.136.19:8000/play/a112/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN
@@ -237,7 +234,7 @@ http://143.0.67.77:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="Kanal D Drama" tvg-logo="https://play-lh.googleusercontent.com/gr5NLZ4T3dJdykoSJzHsVjNwv4aXgcDCm5hitLmG-eOmOhtlieUoTJufQrCRS-jhy74=w240-h480" group-title="Entretenimiento", Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Stv el canal familiar" tvg-logo="https://sarapiquitvcr.com/chatsarapiquitv/media/chatrooms/66e9cdd77e2a13.24154004_ljmqgonkifehp.png" group-title="Entretenimiento", Stv El canal familiar
+#EXTINF:-1 tvg-id="STV el canal familiar" tvg-logo="https://sarapiquitvcr.com/chatsarapiquitv/media/chatrooms/66e9cdd77e2a13.24154004_ljmqgonkifehp.png" group-title="Entretenimiento", STV El canal familiar
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
 #EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Natgeo.png" audio-track="spa" group-title="Culturales", National Geographic
@@ -330,14 +327,49 @@ https://stmv6.voxtvhd.com.br/canal3argentina/canal3argentina/playlist.m3u8?hls_c
 #EXTINF:-1 tvg-id="Canal 8 Rosario" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/7-1.jpg" group-title="Locales", Canal 8 Rosario
 https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8?hls_ctx=7q45s370
 
-#EXTINF:-1 tvg-id="Sima vision" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/9-1.jpg" group-title="Entretenimiento", Sima Vision
-https://soportedvb.click:3668/live/simavisiontvlive.m3u8
+#EXTINF:-1 tvg-id="Television publica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/250px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="Nacionales", Television publica
+https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="Platea vip" tvg-logo="https://xtrematv.com/wp-content/uploads/2025/08/11-platea-vip.jpg" group-title="Entretenimiento", Platea Vip
 https://stmv6.voxtvhd.com.br/canal11larioja/canal11larioja/playlist.m3u8?hls_ctx=26ib48fo
 
 #EXTINF:-1 tvg-id="Canal 5 del pueblo" tvg-logo="https://www.canal5television.com/images/logo_canal_5_tv-removebg-preview.png" group-title="Locales", Canal 5 del pueblo
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal de la musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logocmtvargentina.png/250px-Logocmtvargentina.png" group-title="Musica", Canal de la musica
+https://g3.vxral-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
+
+#EXTINF:-1 tvg-id="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/250px-Telemax_Argentina_%282018%29.png" group-title="Culturales", Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gen tv" tvg-logo="https://i.ibb.co/gbZTqvLB/header-gentvoficial.jpg" group-title="Locales", Gen tv
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8?hls_ctx=h6d86fnk
+
+#EXTINF:-1 tvg-id="Neo tv" tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2022/07/Logo-Neo-Tv.png" group-title="Nacionales", Neo tv
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-id="Neo tv" tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2022/07/Logo-Neo-Tv.png" group-title="Nacionales", Neo tv
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-id="Kairos tv" tvg-logo="https://kairostv.com.ar/imagenes/logo.jpg" group-title="Nacionales", Kairos tv
+https://videostream.shockmedia.com.ar:19360/kairostv/kairostv.m3u8
+
+#EXTINF:-1 tvg-id="Five tv" tvg-logo="https://fivetvdigital.com.ar/images/fivetv_fondo.png" group-title="Nacionales", Five tv
+https://panel.host-live.com:19360/8118/8118.m3u8
+
+#EXTINF:-1 tvg-id="Catamarca tv" tvg-logo="https://tv.diputadoscatamarca.gob.ar/wp-content/uploads/2023/02/Logo-CatamarcaRTV-01.png" group-title="Locales", Catamarca tv
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/chunklist_w1984621970_b378000.m3u8
+
+#EXTINF:-1 tvg-id="Teleclasica" tvg-logo="http://teleclasica.com/wp-content/uploads/2025/01/OTHER.png" group-title="Entretenimiento", Teleclasica
+https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Big channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bigchannel.png/330px-Bigchannel.png" group-title="Infantiles", Big channel
+https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
+
+
+
+
+
 
 
 
