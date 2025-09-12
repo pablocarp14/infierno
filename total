@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="America tv" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="Nacionales", America tv
-http://143.0.67.77:8000/play/a055/index.m3u8
+https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal 12 Puerto Madryn" tvg-logo="https://canal12web.com/wp-content/uploads/2022/03/12.png" group-title="Locales", Canal 12 Puerto Madryn
-https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal 12 Metro tv" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online-696x392.png" group-title="Locales", Canal 12 Metro tv
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="Nacionales", El Nueve
-http://143.0.67.77:8000/play/a04h/index.m3u8
+https://sae13.playlist.ttvnw.net/v1/playlist/CtEGoC5w2ekcZ6viudxemBbRy-cVjkg7aceHv2vUel3jpJ2J5HlRtUkxW4cxvEEL0A2uQOvxJRIzHvxSqpghOl1QpNOsZ6WhMlsjPUYmKzb9fvQO-ysxqNu2gM_dGOpLtNSKZhDKv_qvuLnGlzzN4s34AidRdtqVZHE_jhijoxzK8aoVZOnrA2AiKdIJsamVEbTA8Pt6nYbYnX7ryFbgeemIhdT7UpihJgeAbQ5DaZu-ni-FlDnFX-ms4LeHQ6g7iW_8RNAf3_zxBtEbn6ocMDODf0D3Kxua_yCImqOoiehJgg50Kg27-u28Er-yyYG0CykkBqnNVWPITmlFvZHTAnnFmQjIHAenFVlZPvIrPAnM6O0j3xGNlLp_iww7DprfLRMGoIomRY4lgUZO6fKA-X8kWHC-J2GR0XHCI2fEUxdtBlCgTm0Pr4gR1kLaejvH2KD66wwnMKpmyfMsWDlxU5JrnITuJZlRDLiTmWegNTmdsV1Xw22owWNzxt80_V1n34S50W1CVe2iOTLMwR6IOapSY7UNw3jTF66WcPjw2BqTon9OGkr9PQTUoH3OTIJhEz7QNY5maFAme_QzPVOzvzKJHVrfweHs33lW98mbqVVEifQ_zvlIIZrzRT0z95opFtFLrPsmMcgFfzcN5dQEG_jCDci9G3z52CS-zU3mwjeQ5Jab1_jx8Fn7ytVSIfxrz3LfX7UCsRnhkohjqGSApwNILCUSjrkpKMjF_Z8TYvfwxCJGkG73Tqr-o7vSri76Y22Zbx9M6fLgbeLXtaSItJRxJImp5DpHs1gtpOl8DhACUJcwr4Tn5Nxj20XnFX1EeR5HeMUa6CJmqiUzFb5kVRmGakVBnG651vGynyAKHpkozptCRI2mJft7f6iwUQFQMIwINiqRSshQPB_7WYZJJ_VnfXJNV8iF-26TXBEdZyRMgXIaliDRvPATQdKgfdzTd3QMiOvuPCgIzGVVdF3MUGSme-D8buEPeQ9B6H5xXzq43ZaQjXhl_tpRLpMXl5YXXWisdnjOXxwePi28SyZgKy9kip00LVg73IsM-QUZGoo9_IubwtO6J17BiKUgsjm_1Mi4syqa3vozjaNwe9gucNhk9IChJI5sFyF4RUiAgLvT_pE3Ggz72tAX_NktPidPPe8gASoJdXMtZWFzdC0yMJoN.m3u8
 
 #EXTINF:-1 tvg-id="Telefe" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Nacionales", Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
@@ -27,8 +27,8 @@ http://160.20.165.246:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="Canal Sony" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png" audio-track="spa" group-title="Entretenimiento", Canal Sony
 http://190.60.37.154:45000/play/a04m/index.m3u8
 
-#EXTINF:-1 tvg-id="Comedy central" tvg-logo="https://i.ibb.co/F6SR26t/cocen.png" group-title="Entretenimiento", Comedy Central
-http://190.96.112.22:9202/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="Retro 80 90 movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="Cine", Retro 80 90 movies
+https://zn21g5kls-n995.bitchute.com/XPOJ1Hq2IAl0/1oP9q70uVqkH.mp4
 
 #EXTINF:-1 tvg-id="TNT novelas" tvg-logo= "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png" audio-track="spa" group-title="Entretenimiento", TNT Novelas
 http://190.60.37.154:45000/play/a045/index.m3u8
@@ -36,17 +36,17 @@ http://190.60.37.154:45000/play/a045/index.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-FX.png" audio-track="spa" group-title="Entretenimiento", FX
 http://190.60.37.154:45000/play/a05e/index.m3u8
 
-#EXTINF:-1 tvg-id="Universal tv" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-UniversalTV.png" audio-track="spa" group-title="Cine", Universal TV
-http://143.0.67.77:8000/play/a05j/index.m3u8
+#EXTINF:-1 tvg-id="Retro tv" tvg-logo="https://retrotv.org/wp-content/uploads/2021/07/Sin-titulo-1-2.png" audio-track="spa" group-title="Entretenimiento", Retro TV
+https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
 
-#EXTINF:-1 tvg-id="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="Cine", USA
-http://143.0.67.77:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="Retrox tv" tvg-logo="https://image.roku.com/developer_channels/prod/5b825016d98fbf3adca1d997e5ee15a003421d1100416a179469dd91f8caa308.png" group-title="Entretenimiento", Retrox tv
+https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
 
 #EXTINF:-1 tvg-id="Music top" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1340-294x165-FFFFFF.jpg" group-title="Musica", Music top
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Lifetime.png" audio-track="spa" group-title="Entretenimiento", Lifetime
-http://190.96.112.22:9202/play/a06n/index.m3u8
+#EXTINF:-1 tvg-id="Canal xtra tv" tvg-logo="https://gxtra-cr-extratv.cdn.mediatiquepress.com/wp-content/uploads/2024/10/logo-Extra-tv-blanco-1-e1728675680531-150x32.png" group-title="Entretenimiento", Canal xtra tv
+https://cnn.essastream.com:3387/live/xtratvlive.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Home Health" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryHH.png" audio-track="spa" group-title="Entretenimiento", Discovery H&H
 http://143.0.67.77:8000/play/a07h/index.m3u8
