@@ -363,6 +363,32 @@ https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
 #EXTINF:-1 tvg-id="Big channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bigchannel.png/330px-Bigchannel.png" group-title="Infantiles", Big channel
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Nickelodeon_schweiz_logo.png/250px-Nickelodeon_schweiz_logo.png" group-title="Infantiles", Nickelodeon
+http://200.60.124.19:29000/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/250px-TLC_logo_%282023%29.svg.png" group-title="Entretenimiento", TLC
+http://200.60.124.19:29000/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-id="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/1200px-USA_Network_2025_logo.svg.png" group-title="Cine", USA
+http://200.60.124.19:29000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://la.axn.com/themes/custom/responsive_sony_axn/logo.png" group-title="Entretenimiento", AXN
+http://200.60.124.19:29000/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-id="Panc tv" tvg-logo="https://i.imgur.com/u1dnEVv.png" group-title="Locales", Panc tv
+https://panel.host-live.com:19360/20004/20004.m3u8
+
+#EXTINF:-1 tvg-id="Oxi tv" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3801-294x165-FFFFFF.jpg" group-title="Entretenimiento", Oxi tv
+https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
+
+#EXTINF:-1 tvg-id="Garabito tv" tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="Entretenimiento", Garabito tv
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.m3u8
+
+#EXTINF:-1 tvg-id="Sicardi tv" tvg-logo="https://play-lh.googleusercontent.com/KKwTH7qbA-hR777OAf7LSC6BJSFAK2PvT9iPfC_Oe_CkdSEoah1Q2GG9h0gKUl5GQQ=w240-h480-rw" group-title="Locales", Sicardi tv
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
+#EXTINF:-1 tvg-id="Neox tv" tvg-logo="https://sonicaargentina.com.ar/wp-content/uploads/2021/10/isologo.png" group-title="Locales", Neox tv
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
 
 
